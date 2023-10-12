@@ -15,7 +15,7 @@ html {
   justify-content: space-between;
   background-color: #001f3e;
   padding: 0px 120px 0px 120px;
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   height: 100px;
   width: 100%;
@@ -37,7 +37,7 @@ html {
 }
 
 .nav-menu button {
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: white;
   background-color:#03a9f4;
@@ -62,7 +62,7 @@ html {
 }
 
 .toogle-menu {
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   height: 100%;
   width: 0;
   position: fixed;
@@ -90,7 +90,7 @@ html {
 }
 
 .toogle-menu button {
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: white;
   background-color:#03a9f4;
@@ -121,7 +121,7 @@ html {
 }
 
 .title-list .title {
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   color: white;
 }
 
@@ -138,7 +138,7 @@ html {
   color: #ff9900;
 }
 .title button {
-  font-family: "Montserrat";
+ font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: white;
   background-color: #ff9900;
